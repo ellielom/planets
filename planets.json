@@ -1,0 +1,87 @@
+{
+"solarSystem": 
+{
+	"planets": [ 
+	{
+		"planetName" : "Mercury",
+		"planetColor" : "Orange",
+		"planetRadiusKM" : 2340,
+		"distInMillionsKM" : {
+			"fromSun" : 57.91,
+			"fromEarth" : 91.69
+			},
+		"image" : "mercury-icon.png"
+	},
+	{
+		"planetName" : "Venus",
+		"planetColor" : "White",
+		"planetRadiusKM" : 6100,
+		"distInMillionsKM" : {
+			"fromSun" : 108.21,
+			"fromEarth" : 41.39
+			},
+		"image" : "venus-icon.png"		
+	},
+	{
+		"planetName" : "Earth",
+		"planetColor" : "Blue",
+		"planetRadiusKM" : 6371,
+		"distInMillionsKM" : {
+			"fromSun" : 149.60,
+			"fromEarth" :0
+			},
+		"image" : "earth-icon.png"
+	},
+	{
+		"planetName" : "Mars",
+		"planetColor" : "Red",
+		"planetRadiusKM" : 3324,
+		"distInMillionsKM" : {
+			"fromSun" : 227.9,
+			"fromEarth" : 78.3
+			},
+		"image" : "mars-icon.png"
+	},
+	{
+		"planetName" : "Jupiter",
+		"planetColor" : "Yellow",
+		"planetRadiusKM" : 69750,
+		"distInMillionsKM" : {
+			"fromSun" : 778.3,
+			"fromEarth" : 628.7
+			},
+		"image" : "jupiter-icon.png"
+	},
+	{
+		"planetName" : "Saturn",
+		"planetColor" : "Yellow",
+		"planetRadiusKM" : 58170,
+		"distInMillionsKM" : {
+			"fromSun" : 1428,
+			"fromEarth" : 1278.4
+			},
+		"image" : "saturn-icon.png"
+	},
+	{
+		"planetName" : "Uranus",
+		"planetColor" : "Yellow",
+		"planetRadiusKM" : 23750,
+		"distInMillionsKM" : {
+			"fromSun" : 2872,
+			"fromEarth" : 2722.4
+			},
+		"image" : "uranus-icon.png"
+	},
+	{
+		"planetName" : "Neptune",
+		"planetColor" : "Purple",
+		"planetRadiusKM" : 22400,
+		"distInMillionsKM" : {
+			"fromSun" : 4498,
+			"fromEarth" : 4348.4
+			},
+		"image" : "neptune-icon.png"
+	}	
+	]
+}
+}

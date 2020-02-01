@@ -1,0 +1,84 @@
+
+@media only screen
+and (min-width : 321px) {
+    p {
+
+        font-size: xx-large;
+    }
+
+    button {
+        font-size: x-large;
+        padding: 1%;
+
+    }
+}
+
+@media only screen
+and (min-width : 1224px) {
+    p {
+        font-size: medium;
+    }
+    button {
+        font-size: medium;
+        padding: 1%;
+
+    }
+}
+
+body {
+    font-family: Arial;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.leftGrid {}
+
+.rightGrid {}
+
+div {
+    font-size: large;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+img {
+    width: 200%;
+}
+
+.index {
+    background: black;
+    color: white;
+}
+
+.planetTD {
+    width: 10%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.textTD {
+    padding-left: 10%;
+
+}
+
+h1, p {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 200%;
+}
+
+table {
+    margin-left: 15%;
+}
+
+.output {
+    background: rgba(255, 255, 255, 0.5);
+    margin: 10%;
+    text-align: center;
+    padding-top: 2%;
+    border: 1px solid black;
+}
